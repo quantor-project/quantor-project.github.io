@@ -1,2 +1,3 @@
-# quantor
-Quantitative Analysis of Textual Organisation across Registers (QuanTOR)
+# QuanTOR - Quantitative Analysis of Textual Organisation across Registers
+
+👉 under construction 👈

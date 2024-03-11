@@ -1,8 +1,16 @@
 title: QuanTOR
 description: DESCRIPTION
 
+author:
+  name: RC21
+  email: XXXX
+
 logo: quantor_logo.png
 
-show_downloads: false
+header_pages:
+  - index.md
+  - page2.md
+
+show_downloads: true
 
 # theme: jekyll-theme-minima

@@ -1,6 +1,8 @@
 title: QuanTOR
 description: DESCRIPTION
 
+logo: quantor_logo.png
+
 show_downloads: false
 
 theme: jekyll-theme-minimal

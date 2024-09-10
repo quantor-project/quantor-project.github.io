@@ -1,3 +1,8 @@
+---
+title: QuanTOR
+order: 1
+---
+
 # Quantitative analysis of textual organisation across registers
 
 ## Abstract

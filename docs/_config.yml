@@ -4,6 +4,8 @@ description: >
 
 logo: quantor_logo.png
 
-show_downloads: false
+header_pages: message
 
 theme: jekyll-theme-minimal
+show_downloads: false
+

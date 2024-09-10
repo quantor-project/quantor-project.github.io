@@ -1,4 +1,11 @@
-# Page 2
+---
+title: Page 2
+order: 2
+---
+
+# Main heading
+
+## Subheading
 
 This page is just for testing. Best to go back to the [start page](index.md).  Or you can check out the [minimal theme source code](https://github.com/pages-themes/minimal) for layout and customisation options.
 

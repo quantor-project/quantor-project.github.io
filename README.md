@@ -1,12 +1,20 @@
-# QuanTOR - Quantitative Analysis of Textual Organisation across Registers
-A WEAVE project funded by the German Research Council and the Swiss National Fund
+# QuanTOR Homepage
 
-Project no. 528467412
+This is the repository for the QuanTOR website at quantor-project.github.io hosted via Github Pages.
 
-## Abstract
-In linguistic research, registers are usually analysed at the level of entire texts, despite the fact that common definitions of register are linked to the situational context. Situations unfold dynamically over time and language users make different choices at different points in this process. As a consequence, texts are linguistically different at the beginning, in the middle and at the end. So far, this dynamic organisation at the sub-textual level is not yet integrated in register studies. 
-This project aims at enriching linguistic register studies with an account of the dynamic nature of registers as well as quantitative methods for studying this phenomenon. Our focus on the temporal dynamics of text organisation requires an approach that is capable of extracting patterns of linguistic features and the underlying (latent) dimensions of variation from short text segments. It also necessitates automatic identification and classification of relevant segments in order to scale to the analysis of very large corpora. 
-In order to achieve these goals, the project adopts a three-pronged approach to corpus analysis, leveraging the respective expertise of its three applicants. Our work programme combines linguistic interpretation, theory development and manual annotation with multivariate quantitative analysis as well as unsupervised and supervised machine learning. To this end, we develop a novel Bayesian version of Geometric Multivariate Analysis, a reliable and fine-grained approach to the investigation of linguistic variation, as well as machine-learning approaches for the segmentation and labelling of texts that apply state-of-the-art neural and statistical language models. In an iterative process, we develop a theory of the dynamics of language use in situational context, a gold standard of manually segmented and labelled texts, the BayesGMA approach for studying multivariate feature distributions in text time, as well as readily applicable language models for automatic text segmentation and labelling. All components and quantitative results are carefully evaluated and validated. 
-The project uses components of the International Corpus of English (ICE), which not only facilitate the analysis of temporal dynamics across a range of different registers – in the spoken and written mode – but also allow us to submit theoretical claims to an empirical test, for instance, concerning the theoretical relationship between genre and register. The results of the computationally supported corpus analysis will provide a new perspective on a theory of register as a dynamic linguistic reflection of human behaviour in situational context, based on quantitative empirical insight, which, in turn, will feed into our understanding of the architecture of language.
 
-👉 under construction 👈
+
+## Instructions
+
+- Individual pages of the site are created as Markdown files in the `doc/` subdirectory. They use GitHub-flavoured Markdown and allow inline HTML for advanced formatting.
+- To navigate between pages, just specify the target Markdown filename as a hyperlink, e.g. `meet our [team](team.md)`. Page titles and ordering in the sidebar are determined by fields `title:` and `order:` in the YAML frontmatter of each page.
+- Images and files should be stored in subdirectory `doc/data` and can be included with relative hyperlinks.
+- After pushing updates to the GitHub repository, the website is automatically rebuilt by a GitHub action. This may take a few minutes, depending on available computing resources.
+- Alternatively, pages can also be edited directly in the [GitHub repository](https://github.com/quantor-project/quantor-project.github.io/tree/main/docs) using the Web-based editor. 
+
+
+
+## Advanced features
+
+- If you are editing a local clone of the GitHub repository and want to test changes before committing and pushing them, you can run a local server with the shell script `docs/_local_preview.sh`. Make sure that Ruby is available on your computer, then change to the `docs/` directory and run `./_local_preview.sh`. 
+

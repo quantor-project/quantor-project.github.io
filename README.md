@@ -1,6 +1,6 @@
 # QuanTOR Homepage
 
-This is the repository for the QuanTOR website at quantor-project.github.io hosted via Github Pages.
+This is the repository for the QuanTOR website at [quantor-project.github.io](https://quantor-project.github.io/) hosted via Github Pages.
 
 
 

@@ -5,7 +5,7 @@ order: 10
 
 # Meet the QuanTOR team
 
-![This is not the QuanTOR team.](data/team.jpg "Not the QuanTOR team")
+![Stylised photo of the QuanTOR project team.](data/quantor_team_2025.jpg "Stylised photo of the QuanTOR project team")
 
 ### Principal investigators
 

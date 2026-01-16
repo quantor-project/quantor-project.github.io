@@ -13,3 +13,4 @@ order: 20
 ## Conference presentations
 - Conrad, S., Neumann, S., Frenken, F., & Schneider, G. (2025). Updating the international corpus of English for the 21st century: Towards a standardized XML-compliant markup. _Corpus Linguistics 2025 Book of Abstracts_. The Thirteenth International Corpus Linguistics Conference, Birmingham, UK.
 - Evert, S., Neumann, S., Schneider, G., & Frenken, F. (2025). Finding structure in multivariate data. _Corpus Linguistics 2025 Book of Abstracts_. The Thirteenth International Corpus Linguistics Conference, Birmingham, UK.
+- Neumann, S., & Schneider, G. (2025). The bigger picture: Patterns of linguistic variation across World Englishes. _IAWE26 Book of Abstracts_. IAWE26, Gießen, Germany.

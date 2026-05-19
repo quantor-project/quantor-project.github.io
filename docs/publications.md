@@ -9,6 +9,7 @@ order: 20
 - Frenken, F., Evert, S., Schneider, G., and Neumann, S. (2025). **How stable are multivariate findings about register variation across varieties of English? On the replicability of geometric multivariate analysis.** _ICAME Journal_, 49(1):23–45.
   [10.2478/icame-2025-0003](https://doi.org/10.2478/icame-2025-0003) (open access) – code & data on [GitHub](https://github.com/quantor-project/gma-replication/) 
 - Schneider, G. (2026). **Combining Collocation Measures and Distributional Semantics to Detect Idioms.** In M. Laitinen & P. Rautionaho (Eds.), _Data-Intensive Investigations of English_ (pp. 104–135). Cambridge University Press. [10.1017/9781009415682.005](https://doi.org/10.1017/9781009415682.005)
+- Neumann, S. (2026). **Transdisciplinary Research on Language Behaviour in Situational Context.** In R. Wegener, A. McCabe, L. Fontaine & A. Sellami Baklouti (Eds.), _Routledge Handbook on Transdisciplinary Systemic Functional Linguistics_ (pp. 313-324). Routledge. [10.4324/9781003291138-22](https://doi.org/10.4324/9781003291138-22) 
 
 
 ## Conference presentations

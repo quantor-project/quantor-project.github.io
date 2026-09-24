@@ -10,8 +10,8 @@ order: 20
   [10.2478/icame-2025-0003](https://doi.org/10.2478/icame-2025-0003) (open access) – code & data on [GitHub](https://github.com/quantor-project/gma-replication/) 
 - Schneider, G. (2026). **Combining Collocation Measures and Distributional Semantics to Detect Idioms.** In M. Laitinen & P. Rautionaho (Eds.), _Data-Intensive Investigations of English_ (pp. 104–135). Cambridge University Press. [10.1017/9781009415682.005](https://doi.org/10.1017/9781009415682.005)
 - Neumann, S. (2026). **Transdisciplinary Research on Language Behaviour in Situational Context.** In R. Wegener, A. McCabe, L. Fontaine & A. Sellami Baklouti (Eds.), _Routledge Handbook on Transdisciplinary Systemic Functional Linguistics_ (pp. 313-324). Routledge. [10.4324/9781003291138-22](https://doi.org/10.4324/9781003291138-22)
-- Rezkellah, Fatma-Zohra, and Sophia Conrad. "uzh_tt at Touché: Confidence-Adaptive Cascaded Fallacy Detection." Salido, ES, no, ABC, de Herrera, AGS, MacAvaney, S., Struß, JM (eds.) CLEF (2026).
-- Conrad, Sophia, Tilia Ellendorff, and Gerold Schneider. "Empirical Evaluation of Automatic Speech Act Classification: From Logistic Regression to GPT-4o." (2026).
+- Rezkellah, Fatma-Zohra, and Sophia Conrad. **uzh_tt at Touché: Confidence-Adaptive Cascaded Fallacy Detection.** Salido, ES, no, ABC, de Herrera, AGS, MacAvaney, S., Struß, JM (eds.) CLEF (2026).
+- Conrad, Sophia, Tilia Ellendorff, and Gerold Schneider. **Empirical Evaluation of Automatic Speech Act Classification: From Logistic Regression to GPT-4o.** (2026).
 
 
 ## Conference presentations

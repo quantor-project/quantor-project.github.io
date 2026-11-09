@@ -10,8 +10,11 @@ order: 20
   [10.2478/icame-2025-0003](https://doi.org/10.2478/icame-2025-0003) (open access) – code & data on [GitHub](https://github.com/quantor-project/gma-replication/) 
 - Schneider, G. (2026). **Combining Collocation Measures and Distributional Semantics to Detect Idioms.** In M. Laitinen & P. Rautionaho (Eds.), _Data-Intensive Investigations of English_ (pp. 104–135). Cambridge University Press. [10.1017/9781009415682.005](https://doi.org/10.1017/9781009415682.005)
 - Neumann, S. (2026). **Transdisciplinary Research on Language Behaviour in Situational Context.** In R. Wegener, A. McCabe, L. Fontaine & A. Sellami Baklouti (Eds.), _Routledge Handbook on Transdisciplinary Systemic Functional Linguistics_ (pp. 313-324). Routledge. [10.4324/9781003291138-22](https://doi.org/10.4324/9781003291138-22)
-- Rezkellah, Fatma-Zohra, and Sophia Conrad. **uzh_tt at Touché: Confidence-Adaptive Cascaded Fallacy Detection.** Salido, ES, no, ABC, de Herrera, AGS, MacAvaney, S., Struß, JM (eds.) CLEF (2026).
-- Conrad, Sophia, Tilia Ellendorff, and Gerold Schneider. **Empirical Evaluation of Automatic Speech Act Classification: From Logistic Regression to GPT-4o.** (2026).
+- Rezkellah, F.Z., and Conrad, S. (2026). **uzh_tt at Touché: Confidence-Adaptive Cascaded Fallacy Detection.** In Salido, ES, no, ABC, de Herrera, AGS, MacAvaney, S., Struß, JM (Eds.), _CLEF_.
+- Conrad, S., Ellendorff, T. and Schneider, G. (2026). **Empirical Evaluation of Automatic Speech Act Classification: From Logistic Regression to GPT-4o.** [10.1007/s41701-026-00266-0](https://link.springer.com/article/10.1007/s41701-026-00266-0).
+- Conrad, S., Rezkellah, F.Z., Niklaus, C., Gubelmann, R. (2026). **Swiss4Arg: A Parallel Dataset for Multilingual Argument Mining across Swiss National Languages** [10.48550/arXiv.2610.17894](https://doi.org/10.48550/arXiv.2610.17894).
+- Conrad, S. and Frenken, F. (2026). **Text Segmentation is Subjective: Empirical Evidence of Human Variability and its Implications for Downstream Tasks** In _Proceedings of the 9th International Conference on Natural Language and Speech Processing (ICNLSP-2026)_ [https://aclanthology.org/2026.icnlsp-1.21.pdf](https://aclanthology.org/2026.icnlsp-1.21.pdf)
+ 
 
 
 ## Conference presentations
